@@ -1,0 +1,15 @@
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\obj\Debug\net6.0\MetodyPomocniczeString.csproj.AssemblyReference.cache
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\obj\Debug\net6.0\MetodyPomocniczeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\obj\Debug\net6.0\MetodyPomocniczeString.AssemblyInfoInputs.cache
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\obj\Debug\net6.0\MetodyPomocniczeString.AssemblyInfo.cs
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\obj\Debug\net6.0\MetodyPomocniczeString.csproj.CoreCompileInputs.cache
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\bin\Debug\net6.0\MetodyPomocniczeString.exe
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\bin\Debug\net6.0\MetodyPomocniczeString.deps.json
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\bin\Debug\net6.0\MetodyPomocniczeString.runtimeconfig.json
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\bin\Debug\net6.0\MetodyPomocniczeString.dll
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\bin\Debug\net6.0\MetodyPomocniczeString.pdb
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\obj\Debug\net6.0\MetodyPomocniczeString.dll
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\obj\Debug\net6.0\refint\MetodyPomocniczeString.dll
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\obj\Debug\net6.0\MetodyPomocniczeString.pdb
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\obj\Debug\net6.0\MetodyPomocniczeString.genruntimeconfig.cache
+C:\Users\Wiktro Kucharek\source\repos\MetodyPomocniczeString\MetodyPomocniczeString\obj\Debug\net6.0\ref\MetodyPomocniczeString.dll
